@@ -1,0 +1,9 @@
+{
+  "author": "Ogulcan Celik",
+  "name": "eslint-plugin-import-sort-bell-curve",
+  "main": "lib/index.js",
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "version": "1.0.0"
+}
